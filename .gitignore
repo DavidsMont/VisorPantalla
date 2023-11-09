@@ -1,0 +1,77 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Log files
+*.log
+logs/
+log.txt
+
+# Compiled binary files
+*.class
+*.swp
+*.swo
+*.pyc
+*.pyo
+__pycache__
+
+# Dependency directories
+.jenkins/
+bower_components/
+jspm_packages/
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional local npm cache
+.npm
+
+# Parcel
+.cache/
+
+# Yarn
+yarn-error.log
+.pnp.*
+.pnp.js
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# ESLint
+.eslintcache
+
+# Editor directories
+.idea
+.vscode

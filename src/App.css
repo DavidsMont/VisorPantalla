@@ -1,0 +1,428 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.admin-button {
+  position: fixed; /* Fija el botón en la pantalla */
+  top: 10px; /* Ajusta la distancia desde la parte superior */
+  left: 10px; /* Ajusta la distancia desde la izquierda */
+  z-index: 999; /* Asegura que esté por encima de otros elementos */
+  /* Agrega más estilos según tus preferencias (color de fondo, bordes, etc.) */
+}
+
+.enlace{
+  display: none;
+}
+
+
+.layout {
+  width: 100%;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 2fr 1fr;
+  /* gap:50px; */
+  /* grid-auto-flow: row dense;
+  justify-content: space-around;
+  align-content: center;*/
+} 
+.carousel{
+  display: grid;
+  align-items: center;
+}
+#imagen-carousel{
+  width: 340px;
+  height: 340px;
+  margin-top: 25px;
+}
+
+.video-container{
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+#descripcion{
+  display: grid;
+  justify-items: center;
+  margin: 10px 20px 10px 20px;
+  border-radius: 52px;
+  border: 4px solid #607D8B;
+  background: #ffffffd4;
+  color: black;
+  font-weight: bold;
+}
+
+#descripcion > p {
+  text-align: center;
+  margin: 5px;
+}
+.enlaces{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.lista{
+  display: flex;
+  justify-content: space-between;
+  width: 130%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: rgba(255, 255, 255, 0.375);
+}
+
+ul li{
+  color: green;
+}
+/* .tema {
+  display: flex;
+  background-image: url(https://i.imgur.com/9MWXqh6.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 80%;
+  height: 540px;
+  padding: 15px 40px 15px 40px;
+  margin-top: 10px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+} */
+
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body {
+	background-image: url(https://i.imgur.com/11z5p1p.jpg); 
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+	background-attachment: fixed;
+	/* height:400px; */
+}
+	
+/* Header */
+#contenedor-header{
+	margin: 30px 0px 30px 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+#info-empresa {
+  display: flex;
+  align-items: center;
+}
+#contenedor-logos {
+	display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 60px;
+    align-items: center;
+    align-content: center;
+}
+#contenedor-nombre {
+    display: grid;
+    align-items: end;
+    align-content: stretch;
+    justify-items: center;
+    margin: 0px 60px 0 60px;
+}
+.empresa{
+	color: white;
+	background: rgb(238,34,34);
+	background: linear-gradient(0deg, rgba(238,34,34,1) 41%, rgba(200,42,42,1) 64%, rgba(181,88,88,1) 95%);
+	font-family: 'Rokkitt', serif;
+	font-weight: bold;
+	font-size: 45px;
+	border-radius: 95px 95px 95px 95px;
+	border: 8px solid #f9edc66f;
+	padding: 5px 15px 5px 10px;
+	margin: 0;
+}
+.img-fondo-titulo {
+  top: -5px;
+  width: 150px;
+  height: 42px;
+  position: absolute;
+}
+#logo-empresa-ochenta {
+	width: 150px;
+}
+
+#logo-empresa {
+    width: 100px;
+	margin-left: -5px;
+}
+
+/* Redes sociales y reloj */
+.reloj {
+	width: 380px;
+    height: 60px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+}
+.log-redes-sociales {
+	width: 100%;
+	height: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.clock {
+	position: relative;
+	text-align: center;
+  width: 250px;
+}
+
+.time{
+	color: white;
+	font-size: 2.0rem;
+	font-weight: bold;
+}
+
+.date {
+	background: #fafafaa2;
+	font-size: 1.0rem;
+	color: black;
+	font-weight: bold;
+}
+.month {
+	color: white;
+	font-size: 1.0rem;
+	font-weight: bold;
+}
+
+/* seccion 1 */
+.seccionOne {
+    display: block;
+	height: 500px;
+}
+.contenidos {
+	display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 0px !important;
+    align-items: center;
+}
+#contenedor-video {
+	display: flex;
+    background-image: url(https://i.imgur.com/AW2XSxL.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80%;
+    height: 540px;
+    padding: 15px 40px 15px 40px;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.video {
+	width: 100%;
+  height: 85%;
+}
+#contenedor-programas {
+    margin-left: 0px;
+}
+
+#contenedor-capacitaciones {
+	justify-content: center;
+}
+#capacitaciones h4 {
+	color: white;
+	font-size: large;
+	font-weight: bold;
+	margin: 20px;
+}
+.contenido-programas {
+    display: contents;
+}
+.fb-video {
+    align-content: center;
+}
+#slide-carousel{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* aside */
+
+#carouselExampleCaptions{
+	/* background: linear-gradient(90deg, #1c3643a1, #273b47b4 25%, #1e5372b7); */
+  background: #9998985f;
+  /* -webkit-backdrop-filter: blur(5px); */
+  backdrop-filter: blur(5px);
+  /* position: relative; */
+  display: grid;
+  border-radius: 1px;
+  border: 8px solid #fcfcfc6f;
+  width: 80%;
+  height: 85%;
+  justify-items: center;
+  align-items: center;
+}
+
+/* Carousel */
+
+
+/* redes*/
+.logo-redes {
+color: white;
+}
+
+/* footer */
+#camarito {
+position: fixed;
+  width: 140px;
+  bottom: 10px;
+}
+.banner-container {
+/* background: linear-gradient(0deg, #b71731 0%, #df1949 100%); */
+background: linear-gradient(to bottom, #777777, #666666, #555555, #444444, #333333, #222222, #111111, #000000e7);
+position: fixed;
+height: 60px;
+width: 100%;
+bottom: 0;
+overflow: hidden;
+align-content: center;
+display: flex;
+align-items: center;
+}
+.mensajes {
+font-size: 20px;
+padding: 0;
+white-space: nowrap;
+color: white;
+}
+.message-text {
+font-family: 'Bree Serif', serif;
+font-family: 'Maitree', serif;
+margin: 0;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 768px) {
+  .layout {
+    width: 500px;
+    grid-template-rows: 1fr 1fr; /* Cambiamos a dos filas */
+    grid-template-columns: 1fr; /* Cambiamos a una columna */
+    gap: 10px; /* Reducimos el espacio entre elementos */
+  }
+
+  .video-container {
+    width: 100%;
+    justify-content: center;
+    grid-row: 1;
+    grid-column: 1; /* El video se muestra en la primera fila */
+  }
+
+  .carousel {
+    grid-row: 2;
+    grid-column: 1; /* El carrusel se muestra en la segunda fila */
+  }
+  #contenedor-video {
+    background-position: unset;
+    background-repeat: round;
+    background-size: cover;
+    width: 80%;
+    height: 260px;
+  }
+  .carousel {
+    height: 280px;
+  }
+  .empresa{
+    font-size: 28px;
+  }
+  #info-empresa {
+    display: block; /* Cambia a bloque para dispositivos móviles */
+  }
+
+  #contenedor-logos {
+    margin-bottom: 15px;
+    height: 5rem;
+    justify-content: space-around;
+    order: 1; /* Cambia el orden para que esté arriba en dispositivos móviles */
+  }
+
+  #contenedor-nombre {
+    margin: 0;
+    order: 2; /* Cambia el orden para que esté debajo en dispositivos móviles */
+  }
+  #contenedor-header {
+    width: 500px;
+    margin: 15px 0px 15px 0;
+    grid-template-columns: 1fr;
+  }
+
+  .empresa{
+    font-size: 25px;
+  }
+  .img-fondo-titulo{
+    display: none;
+  }
+  .reloj{
+    display: none;
+  }
+  .layout{
+    gap: 40px;
+  }
+}
+
+@media (max-height: 701.38px){
+  #contenedor-video {
+    background-position: unset;
+    background-repeat: round;
+    background-size: cover;
+    width: 70%;
+    height: 450px;
+  }
+  .carousel {
+    height: 500px;
+  }
+}
