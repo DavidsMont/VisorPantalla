@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DavidsMont/VisorPantalla/static/css/main.b641ebab.css",
+    "main.js": "/DavidsMont/VisorPantalla/static/js/main.1bb41645.js",
+    "static/js/787.5bae27e3.chunk.js": "/DavidsMont/VisorPantalla/static/js/787.5bae27e3.chunk.js",
+    "index.html": "/DavidsMont/VisorPantalla/index.html",
+    "main.b641ebab.css.map": "/DavidsMont/VisorPantalla/static/css/main.b641ebab.css.map",
+    "main.1bb41645.js.map": "/DavidsMont/VisorPantalla/static/js/main.1bb41645.js.map",
+    "787.5bae27e3.chunk.js.map": "/DavidsMont/VisorPantalla/static/js/787.5bae27e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b641ebab.css",
+    "static/js/main.1bb41645.js"
+  ]
+}
