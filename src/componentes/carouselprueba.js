@@ -6,19 +6,24 @@ function Carouseldos() {
 
   const slidesData = [
     {
-      title: "Garfiel",
-      imageUrl: "https://i.imgur.com/QFRW2ig.jpg",
-      description: "🎃 ¡Adéntrate en el oscuro festín de nuestro Combo Perro Americano del Más Allá! 🌭👻",
+      title: "Seguridad Pamplona",
+      imageUrl: "https://i.postimg.cc/5N02fnMg/policia.jpg",
+      description: "Por la seguridad de los comerciantes de Pamplona y los municipios de la provincia",
     },
     {
-      title: "Calzadofootprints",
-      imageUrl: "https://i.imgur.com/QQ6SU5S.jpg",
-      description: "Los instantes son pasajeros,vivamos cada día con amor y alegría 👣😊regalemos sonrisas😀😘👣#calzadofootprints",
+      title: "Combo Chicken dos",
+      imageUrl: "https://i.postimg.cc/wMWxhsDD/combo-chicken-2.jpg",
+      description: "El Combo de Chicken Bros dos viene con 6 porciones de pechuga 🍗 1 porción de papas a la francesa, gaseosa 400 ml. y una porción de ensalada de la casa 😋",
     },
     {
-      title: "Cosa Peluda",
-      imageUrl: "https://i.imgur.com/tHolPmT.jpg",
-      description: "Cosa Peluda. Estilo para tu mascota.",
+      title: "Donaton",
+      imageUrl: "https://i.postimg.cc/Yqsq0YrH/donaton.jpg",
+      description: "Únete a la DONATÓN DE ÚTILES ESCOLARES Y UNIFORMES así entre todos ayudamos a que niñas y niños puedan continuar su educación",
+    },
+    {
+      title: "Hamburguesa Garfield",
+      imageUrl: "https://i.postimg.cc/wxFBKnn3/hamburguesa-garfield.jpg",
+      description: "¿Ya probaste la hamburguesa doble 🍔? que viene con doble carne 🥩🥩 madurada, queso 🧀 chedar, tocineta 🥓 alemana, cebolla 🧅 grille, vegetales 🥗 frescos, salsas de la casa y por si fuera poco papitas a la francesa 🍟",
     },
     {
       title: "Linea de Atención Express",
