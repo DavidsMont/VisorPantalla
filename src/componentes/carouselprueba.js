@@ -30,7 +30,7 @@ function Carouseldos() {
   useEffect(() => {
     const interval = setInterval(() => {
       setActiveIndex((prevIndex) => (prevIndex + 1) % slidesData.length); // Mostrar un elemento a la vez
-    }, 10000);
+    }, 15000);
 
     return () => clearInterval(interval);
   }, [slidesData.length]);
