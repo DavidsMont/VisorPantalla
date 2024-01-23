@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VisorPantalla/static/css/main.1c64e588.css",
-    "main.js": "/VisorPantalla/static/js/main.535b19cd.js",
+    "main.css": "/VisorPantalla/static/css/main.ae722e15.css",
+    "main.js": "/VisorPantalla/static/js/main.4321b50a.js",
     "static/js/787.5bae27e3.chunk.js": "/VisorPantalla/static/js/787.5bae27e3.chunk.js",
     "index.html": "/VisorPantalla/index.html",
-    "main.1c64e588.css.map": "/VisorPantalla/static/css/main.1c64e588.css.map",
-    "main.535b19cd.js.map": "/VisorPantalla/static/js/main.535b19cd.js.map",
+    "main.ae722e15.css.map": "/VisorPantalla/static/css/main.ae722e15.css.map",
+    "main.4321b50a.js.map": "/VisorPantalla/static/js/main.4321b50a.js.map",
     "787.5bae27e3.chunk.js.map": "/VisorPantalla/static/js/787.5bae27e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c64e588.css",
-    "static/js/main.535b19cd.js"
+    "static/css/main.ae722e15.css",
+    "static/js/main.4321b50a.js"
   ]
 }
