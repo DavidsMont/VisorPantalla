@@ -4,6 +4,9 @@
 
 
 .admin-button {
+  background: #ffffff00 !important;
+  border: none;
+  color: #0000002b;
   position: fixed; /* Fija el botón en la pantalla */
   top: 10px; /* Ajusta la distancia desde la parte superior */
   left: 10px; /* Ajusta la distancia desde la izquierda */
@@ -326,7 +329,7 @@ display: flex;
 align-items: center;
 }
 .mensajes {
-font-size: 20px;
+font-size: 40px;
 padding: 0;
 white-space: nowrap;
 color: white;
