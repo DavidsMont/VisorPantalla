@@ -8,8 +8,8 @@
   border: none;
   color: #0000002b;
   position: fixed; /* Fija el botón en la pantalla */
-  top: 10px; /* Ajusta la distancia desde la parte superior */
-  left: 10px; /* Ajusta la distancia desde la izquierda */
+  top: 3px; /* Ajusta la distancia desde la parte superior */
+  left: 100px; /* Ajusta la distancia desde la izquierda */
   z-index: 999; /* Asegura que esté por encima de otros elementos */
   /* Agrega más estilos según tus preferencias (color de fondo, bordes, etc.) */
 }
