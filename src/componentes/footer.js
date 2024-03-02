@@ -34,7 +34,7 @@ function Footer() {
       gsap.set(mensajeElement, { x: containerWidth + mensajeWidth });
       gsap.to(mensajeElement, {
         x: -mensajeWidth,
-        duration: containerWidth * 0.04,
+        duration: containerWidth * 0.03,
         ease: "linear",
         onComplete: () => {
           setCurrentMessageIndex((currentMessageIndex + 1) % messages.length);

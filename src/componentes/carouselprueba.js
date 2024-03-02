@@ -13,12 +13,12 @@ function Carouseldos() {
     {
       title: "Burguer",
       imageUrl: "https://i.postimg.cc/c1XcWMR3/430113532-421484626920188-2688360402528637461-n.jpg",
-      description: "El progreso nos mueve! \n  #Empresarios  #RenovaciónMercantil #ProgresoParaTodos. 📌¿Para qué sirve el #RegistroMercantil?. 🔹Facilita los negocios. 🔹Fortalece las relaciones comerciales y crediticias. 🔹Permite tener información para generar políticas públicas. 🔹Propicia la generación de empleo y la inversión. No dejes para última hora la renovación de tu Matrícula Mercantil. ",
+      description: "📌¿Para qué sirve el #RegistroMercantil?. 🔹Facilita los negocios. 🔹Fortalece las relaciones comerciales y crediticias. 🔹Permite tener información para generar políticas públicas. 🔹Propicia la generación de empleo y la inversión. No dejes para última hora la renovación de tu Matrícula Mercantil. ",
     },
         {
       title: "Viaje Santurban",
       imageUrl: "https://i.postimg.cc/s2vQC7JV/429976555-912666670866358-8963903214081969409-n.jpg",
-      description: "¡Explora la magia subterránea de Zipaquirá con 𝑻𝒓𝒂𝒏𝒔𝒑𝒐𝒓𝒕𝒆𝒔 𝑬𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒆𝒔 𝑺𝒂𝒏𝒕𝒖𝒓𝒃𝒂𝒏 🕍⛏️ Sumérgete en las profundidades de la Catedral de Sal, una maravilla arquitectónica tallada en sal que te dejará sin palabras. 🌐✨",
+      description: "¡Explora la magia subterránea de Zipaquirá con 𝑻𝒓𝒂𝒏𝒔𝒑𝒐𝒓𝒕𝒆𝒔 𝑬𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒆𝒔 𝑺𝒂𝒏𝒕𝒖𝒓𝒃𝒂𝒏\n🕍⛏️ Sumérgete en las profundidades de la Catedral de Sal, una maravilla arquitectónica tallada en sal que te dejará sin palabras. 🌐✨",
     },
     {
       title: "Renovacion El Rincon de la Abuela",

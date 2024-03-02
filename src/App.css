@@ -55,12 +55,13 @@
 #descripcion{
   display: grid;
   justify-items: center;
-  margin: 10px 20px 10px 20px;
+  margin: 10px ;
   border-radius: 52px;
-  border: 4px solid #607D8B;
+  /* border: 4px solid #607D8B; */
   background: #ffffffd4;
   color: black;
   font-weight: bold;
+  padding: 1rem;
 }
 
 #descripcion > p {
@@ -314,7 +315,7 @@ body {
   border-radius: 1px;
   border: 8px solid #fcfcfc6f;
   width: 80%;
-  height: 85%;
+  height: 90%;
   justify-items: center;
   align-items: center;
 }
