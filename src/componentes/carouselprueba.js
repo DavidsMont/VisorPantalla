@@ -6,24 +6,24 @@ function Carouseldos() {
 
   const slidesData = [
     {
-      title: "Seguridad Pamplona",
-      imageUrl: "https://i.postimg.cc/5N02fnMg/policia.jpg",
-      description: "Por la seguridad de los comerciantes de Pamplona y los municipios de la provincia",
+      title: "Atención Marzo",
+      imageUrl: "https://i.postimg.cc/7LSSCSpq/429814325-422889160113068-7573488658192329086-n.jpg",
+      description: "Apreciado matriculado, ¡NO TE QUEDES SIN RENOVAR TU REGISTRO! ⏰ \n La Cámara de Comercio de Pamplona, te presenta jornadas de atención especial para los días sábado 02, 09, 16 y 23 de marzo.",
     },
     {
-      title: "Combo Chicken dos",
-      imageUrl: "https://i.postimg.cc/wMWxhsDD/combo-chicken-2.jpg",
-      description: "El Combo de Chicken Bros dos viene con 6 porciones de pechuga 🍗 1 porción de papas a la francesa, gaseosa 400 ml. y una porción de ensalada de la casa 😋",
+      title: "Burguer",
+      imageUrl: "https://i.postimg.cc/c1XcWMR3/430113532-421484626920188-2688360402528637461-n.jpg",
+      description: "El progreso nos mueve! \n  #Empresarios  #RenovaciónMercantil #ProgresoParaTodos. 📌¿Para qué sirve el #RegistroMercantil?. 🔹Facilita los negocios. 🔹Fortalece las relaciones comerciales y crediticias. 🔹Permite tener información para generar políticas públicas. 🔹Propicia la generación de empleo y la inversión. No dejes para última hora la renovación de tu Matrícula Mercantil. ",
+    },
+        {
+      title: "Viaje Santurban",
+      imageUrl: "https://i.postimg.cc/s2vQC7JV/429976555-912666670866358-8963903214081969409-n.jpg",
+      description: "¡Explora la magia subterránea de Zipaquirá con 𝑻𝒓𝒂𝒏𝒔𝒑𝒐𝒓𝒕𝒆𝒔 𝑬𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒆𝒔 𝑺𝒂𝒏𝒕𝒖𝒓𝒃𝒂𝒏 🕍⛏️ Sumérgete en las profundidades de la Catedral de Sal, una maravilla arquitectónica tallada en sal que te dejará sin palabras. 🌐✨",
     },
     {
-      title: "Donaton",
-      imageUrl: "https://i.postimg.cc/Yqsq0YrH/donaton.jpg",
-      description: "Únete a la DONATÓN DE ÚTILES ESCOLARES Y UNIFORMES así entre todos ayudamos a que niñas y niños puedan continuar su educación",
-    },
-    {
-      title: "Hamburguesa Garfield",
-      imageUrl: "https://i.postimg.cc/wxFBKnn3/hamburguesa-garfield.jpg",
-      description: "¿Ya probaste la hamburguesa doble 🍔? que viene con doble carne 🥩🥩 madurada, queso 🧀 chedar, tocineta 🥓 alemana, cebolla 🧅 grille, vegetales 🥗 frescos, salsas de la casa y por si fuera poco papitas a la francesa 🍟",
+      title: "Renovacion El Rincon de la Abuela",
+      imageUrl: "https://i.postimg.cc/G2TXtBbR/429854248-422522710149713-3250834957752774051-n.jpg",
+      description: "Nury Arciniegas Caceres de El Rincon de la Abuela  ya renovó su matrícula Mercantil. La renovación de la Matrícula Mercantil es la llave para que tu negocio siga creciendo. No olvides que el plazo vence el 1 de abril.",
     },
     {
       title: "Linea de Atención Express",

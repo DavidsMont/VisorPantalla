@@ -41,11 +41,11 @@ function Header() {
           />
         </div>
         <div className="" id="contenedor-nombre">
-          <img
+          {/* <img
             className="mx-auto my-4 img-fondo-titulo"
             src="https://i.imgur.com/9LRqRNQ.png"
             alt="fondo-titulo"
-          />
+          /> */}
           <h2 className="text-xl font-semibold text-center md:text-2xl empresa">
             Cámara de Comercio de Pamplona
           </h2>
