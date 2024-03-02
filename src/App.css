@@ -144,6 +144,8 @@ body {
 	
 /* Header */
 .ver_videos{
+  left: 5px;
+  top: 0;
   position: absolute;
 }
 
@@ -328,14 +330,14 @@ color: white;
 /* footer */
 #camarito {
 position: fixed;
-  width: 140px;
+  width: 9rem;
   bottom: 10px;
 }
 .banner-container {
 /* background: linear-gradient(0deg, #b71731 0%, #df1949 100%); */
 background: linear-gradient(to bottom, #777777, #666666, #555555, #444444, #333333, #222222, #111111, #000000e7);
 position: fixed;
-height: 60px;
+height: 5rem;
 width: 100%;
 bottom: 0;
 overflow: hidden;
@@ -344,7 +346,7 @@ display: flex;
 align-items: center;
 }
 .mensajes {
-font-size: 40px;
+font-size: 4rem;
 padding: 0;
 white-space: nowrap;
 color: white;
@@ -474,7 +476,7 @@ margin: 0;
     font-size: 55px;
   }
   .layout{
-    margin-top: 5rem;
+    margin-top: 8rem;
   }
   #contenedor-video{
     width: 85%;
