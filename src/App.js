@@ -13,7 +13,8 @@ function App() {
 
   const [videoUrl, setVideoUrl] = useState(
     initialVideoUrl ||
-      "https://www.youtube.com/embed/videoseries?si=Xs2Z1ebYm9RkBpnM&amp;list=PLaZmxwblqOt7n4Y2NfTQmBskPy_bHf_jM&autoplay=1"
+      "https://www.youtube.com/embed/videoseries?si=uD9uKtNDplCgB1I5&amp;controls=0&amp;list=PLmVJ0CeRYtBxgD2lU-WayzydmZM_K7JgK&autoplay=1"
+
   );
 
   return (

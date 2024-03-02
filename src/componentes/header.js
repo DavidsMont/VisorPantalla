@@ -11,8 +11,8 @@ function Header() {
   // };
 
   return (
-    <header className="grid md:grid-cols-3" id="contenedor-header">
-      <div className="flex">
+    <header className="flex" id="contenedor-header">
+      <div className="flex ver_videos">
         <nav className="flex enlaces">
           <ul className="lista col-2">
             <li className="enlace">
@@ -27,8 +27,8 @@ function Header() {
           </ul>
         </nav>
       </div>
-      <div className="grid md:grid-cols-3" id="info-empresa">
-        <div className="md:w-1/3" id="contenedor-logos">
+      <div className="flex " id="info-empresa">
+        <div className="" id="contenedor-logos">
           <img
             src="https://i.imgur.com/k9aBoGR.png"
             id="logo-empresa-ochenta"
@@ -40,15 +40,15 @@ function Header() {
             alt="logo-empresa"
           />
         </div>
-        <div className="w-2/4" id="contenedor-nombre">
-          <h2 className="text-xl font-semibold text-center md:text-2xl empresa">
-            Cámara de Comercio de Pamplona
-          </h2>
+        <div className="" id="contenedor-nombre">
           <img
             className="mx-auto my-4 img-fondo-titulo"
             src="https://i.imgur.com/9LRqRNQ.png"
             alt="fondo-titulo"
           />
+          <h2 className="text-xl font-semibold text-center md:text-2xl empresa">
+            Cámara de Comercio de Pamplona
+          </h2>
         </div>
         <div className="reloj">
           <Reloj />

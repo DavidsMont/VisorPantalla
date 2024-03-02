@@ -28,13 +28,12 @@ function Reloj() {
   };
 
   const dateString = currentTime.toLocaleDateString(undefined, options);
-  const monthString = new Intl.DateTimeFormat(undefined, { month: 'long' }).format(currentTime);
+  // const monthString = new Intl.DateTimeFormat(undefined, { month: 'long' }).format(currentTime);
 
   return (
     <div className='clock'>
       <div className="time">{timeString}</div>
       <div className="date">{dateString}</div>
-      <div className="month">{monthString}</div>
     </div>
   );
 }
