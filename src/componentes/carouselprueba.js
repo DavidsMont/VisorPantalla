@@ -15,10 +15,15 @@ function Carouseldos() {
       imageUrl: "https://i.postimg.cc/dQGPcf3Z/432853545-7613267272028785-2409245457961769712-n.jpg",
       description: "¡Únete a nuestra Unidad de Afiliados! ❤️🤍💛✨",
     },
-        {
-      title: "Viaje Santurban",
-      imageUrl: "https://i.postimg.cc/s2vQC7JV/429976555-912666670866358-8963903214081969409-n.jpg",
-      description: "¡Explora la magia subterránea de Zipaquirá con 𝑻𝒓𝒂𝒏𝒔𝒑𝒐𝒓𝒕𝒆𝒔 𝑬𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒆𝒔 𝑺𝒂𝒏𝒕𝒖𝒓𝒃𝒂𝒏\n🕍⛏️",
+      {
+      title: "Festival Dulce Y Colacion",
+      imageUrl: "https://i.postimg.cc/gknBYpCN/432709739-7608814752474037-5043492032141945310-n.jpg",
+      description: "Feria del Dulce y la Colación Pamplonesa en sus 41 años de historia",
+    },
+      {
+      title: "Entidades Sin Animo de Lucro",
+      imageUrl: "https://i.postimg.cc/QtrB7rhZ/432465615-7611498202205692-5210682753751623298-n.jpg",
+      description: "Renueve su registro de entidad sin animo de lucro antes del 01 de abril 2024.",
     },
     {
       title: "Renovacion El Rincon de la Abuela",
@@ -26,9 +31,19 @@ function Carouseldos() {
       description: "Nury Arciniegas Caceres de El Rincon de la Abuela  ya renovó su matrícula Mercantil. No olvides que el plazo vence el 1 de abril.",
     },
     {
+      title: "Feria Artesanal",
+      imageUrl: "https://i.postimg.cc/xdp1nJ1C/432998252-7608925555796290-1071116971021957680-n.jpg",
+      description: "Feria Artesanal Cariongo 'Cara de Oro' apoya a nuestros empresarios y emprendedores",
+    },
+    {
       title: "Renovacion RNT",
       imageUrl: "https://i.postimg.cc/yxfpV0Zx/432480790-7611521285536717-7716585335228694244-n.jpg",
       description: "Renueva tu Registro Nacional de Turismo #RNT antes del 01 de abril sin costo y en línea ingresando a https://rnt.confecamaras.co",
+    },
+    {
+      title: "Semana Santa",
+      imageUrl: "https://i.postimg.cc/fTpqyFZZ/432773176-7608788029143376-4179017954771599391-n.jpg",
+      description: "Invitacion a vivir la semana santa en Pamplona, Norte de Santander",
     },
     {
       title: "Linea de Atención Express",
