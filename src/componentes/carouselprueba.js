@@ -51,9 +51,9 @@ function Carouseldos() {
       description: "Invitacion a vivir la semana santa en Pamplona, Norte de Santander",
     },
     {
-      title: "Linea de Atención Express",
-      imageUrl: "https://i.imgur.com/XIbD9ht.jpg",
-      description: "Linea de atención Express Cameral",
+      title: "Linea de Atención Registral",
+      imageUrl: "https://i.postimg.cc/KjThTY9y/Whats-App-Image-2024-03-19-at-3-01-38-PM.jpg",
+      description: "Linea de atención registral",
     },
     {
       title: "Renovacion RUP",
