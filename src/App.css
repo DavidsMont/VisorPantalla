@@ -67,6 +67,7 @@
 #descripcion > p {
   text-align: center;
   margin: 5px;
+  font-size: 22px;
 }
 .enlaces{
   position: absolute;

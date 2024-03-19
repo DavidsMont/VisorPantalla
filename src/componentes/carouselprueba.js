@@ -11,9 +11,9 @@ function Carouseldos() {
       description: "Apreciado matriculado, ¡NO TE QUEDES SIN RENOVAR TU REGISTRO! ⏰ \n La Cámara de Comercio de Pamplona, te presenta jornadas de atención especial para los días sábado 02, 09, 16 y 23 de marzo.",
     },
     {
-      title: "Burguer",
-      imageUrl: "https://i.postimg.cc/c1XcWMR3/430113532-421484626920188-2688360402528637461-n.jpg",
-      description: "📌¿Para qué sirve el #RegistroMercantil?. 🔹Facilita los negocios. 🔹Fortalece las relaciones comerciales y crediticias. 🔹Permite tener información para generar políticas públicas. 🔹Propicia la generación de empleo y la inversión. No dejes para última hora la renovación de tu Matrícula Mercantil. ",
+      title: "Afiliados",
+      imageUrl: "https://i.postimg.cc/dQGPcf3Z/432853545-7613267272028785-2409245457961769712-n.jpg",
+      description: "¡Únete a nuestra Unidad de Afiliados y aprovecha todos los beneficios que tenemos para ti en el 2024! ❤️🤍💛✨",
     },
         {
       title: "Viaje Santurban",
@@ -23,12 +23,22 @@ function Carouseldos() {
     {
       title: "Renovacion El Rincon de la Abuela",
       imageUrl: "https://i.postimg.cc/G2TXtBbR/429854248-422522710149713-3250834957752774051-n.jpg",
-      description: "Nury Arciniegas Caceres de El Rincon de la Abuela  ya renovó su matrícula Mercantil. La renovación de la Matrícula Mercantil es la llave para que tu negocio siga creciendo. No olvides que el plazo vence el 1 de abril.",
+      description: "Nury Arciniegas Caceres de El Rincon de la Abuela  ya renovó su matrícula Mercantil. No olvides que el plazo vence el 1 de abril.",
+    },
+    {
+      title: "Renovacion RNT",
+      imageUrl: "https://i.postimg.cc/yxfpV0Zx/432480790-7611521285536717-7716585335228694244-n.jpg",
+      description: "Renueva tu Registro Nacional de Turismo #RNT antes del 01 de abril sin costo y en línea ingresando a https://rnt.confecamaras.co",
     },
     {
       title: "Linea de Atención Express",
       imageUrl: "https://i.imgur.com/XIbD9ht.jpg",
       description: "Linea de atención Express Cameral",
+    },
+    {
+      title: "Renovacion RUP",
+      imageUrl: "https://i.postimg.cc/5y15ZyK0/432447159-7611501412205371-8072102347269526709-n.jpg",
+      description: "Renueva el Registro Unico de Proponente antes del 5 de abril",
     },
   ];
 
