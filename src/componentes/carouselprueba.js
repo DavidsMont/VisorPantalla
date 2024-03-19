@@ -8,17 +8,17 @@ function Carouseldos() {
     {
       title: "Atención Marzo",
       imageUrl: "https://i.postimg.cc/7LSSCSpq/429814325-422889160113068-7573488658192329086-n.jpg",
-      description: "Apreciado matriculado, ¡NO TE QUEDES SIN RENOVAR TU REGISTRO! ⏰ \n La Cámara de Comercio de Pamplona, te presenta jornadas de atención especial para los días sábado 02, 09, 16 y 23 de marzo.",
+      description: "Apreciado matriculado, ¡NO TE QUEDES SIN RENOVAR TU REGISTRO! ⏰ \n Atención especial los días sábado 02, 09, 16 y 23 de marzo.",
     },
     {
       title: "Afiliados",
       imageUrl: "https://i.postimg.cc/dQGPcf3Z/432853545-7613267272028785-2409245457961769712-n.jpg",
-      description: "¡Únete a nuestra Unidad de Afiliados y aprovecha todos los beneficios que tenemos para ti en el 2024! ❤️🤍💛✨",
+      description: "¡Únete a nuestra Unidad de Afiliados! ❤️🤍💛✨",
     },
         {
       title: "Viaje Santurban",
       imageUrl: "https://i.postimg.cc/s2vQC7JV/429976555-912666670866358-8963903214081969409-n.jpg",
-      description: "¡Explora la magia subterránea de Zipaquirá con 𝑻𝒓𝒂𝒏𝒔𝒑𝒐𝒓𝒕𝒆𝒔 𝑬𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒆𝒔 𝑺𝒂𝒏𝒕𝒖𝒓𝒃𝒂𝒏\n🕍⛏️ Sumérgete en las profundidades de la Catedral de Sal, una maravilla arquitectónica tallada en sal que te dejará sin palabras. 🌐✨",
+      description: "¡Explora la magia subterránea de Zipaquirá con 𝑻𝒓𝒂𝒏𝒔𝒑𝒐𝒓𝒕𝒆𝒔 𝑬𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒆𝒔 𝑺𝒂𝒏𝒕𝒖𝒓𝒃𝒂𝒏\n🕍⛏️",
     },
     {
       title: "Renovacion El Rincon de la Abuela",

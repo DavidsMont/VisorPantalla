@@ -36,13 +36,13 @@
   align-content: center;*/
 } 
 .carousel{
-  display: grid;
-  align-items: center;
+  /* display: grid;
+  align-items: center; */
 }
 #imagen-carousel{
   width: 340px;
-  height: 340px;
-  margin-top: 25px;
+  height: 400px;
+  margin-top: 15px;
 }
 
 .video-container{
@@ -315,8 +315,8 @@ body {
   display: grid;
   border-radius: 1px;
   border: 8px solid #fcfcfc6f;
-  width: 80%;
-  height: 90%;
+  width: 90%;
+  /* height: 90%; */
   justify-items: center;
   align-items: center;
 }
