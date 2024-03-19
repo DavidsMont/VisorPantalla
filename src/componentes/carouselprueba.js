@@ -11,11 +11,16 @@ function Carouseldos() {
       description: "Apreciado matriculado, ¡NO TE QUEDES SIN RENOVAR TU REGISTRO! ⏰ \n Atención especial los días sábado 02, 09, 16 y 23 de marzo.",
     },
     {
-      title: "Afiliados",
-      imageUrl: "https://i.postimg.cc/dQGPcf3Z/432853545-7613267272028785-2409245457961769712-n.jpg",
+      title: "Afiliados 1",
+      imageUrl: "https://i.postimg.cc/nL9sKpdR/afiliados1.jpg",
       description: "¡Únete a nuestra Unidad de Afiliados! ❤️🤍💛✨",
     },
-      {
+    {
+      title: "Afiliados 2",
+      imageUrl: "https://i.postimg.cc/k4r2fzzn/afiliados2.jpg",
+      description: "¡Únete a nuestra Unidad de Afiliados! ❤️🤍💛✨",
+    },
+    {
       title: "Festival Dulce Y Colacion",
       imageUrl: "https://i.postimg.cc/gknBYpCN/432709739-7608814752474037-5043492032141945310-n.jpg",
       description: "Feria del Dulce y la Colación Pamplonesa en sus 41 años de historia",
@@ -55,6 +60,11 @@ function Carouseldos() {
       imageUrl: "https://i.postimg.cc/5y15ZyK0/432447159-7611501412205371-8072102347269526709-n.jpg",
       description: "Renueva el Registro Unico de Proponente antes del 5 de abril",
     },
+    // {
+    //   title: "Galeria Cafe",
+    //   imageUrl: "",
+    //   description: "",
+    // },
   ];
 
   useEffect(() => {
