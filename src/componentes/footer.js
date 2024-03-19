@@ -8,7 +8,7 @@ function Footer() {
 
   const messages = [
     "Agendate con la Cámara de Comercio y consulta los beneficios de estar formalizado en www.camarapamplona.org.co",
-    "Recuerda nuestro horario de atención 📆 Lunes a Viernes  🕗  de 8:00am - 12:00pm    y    de 2:00pm - 6:00pm",
+    "Recuerda nuestro horario de atención 📆 Lunes a Viernes  🕗  de 8:00 am - 12:00 m    y    de 2:00 pm - 6:00 pm",
     "Nuestros asesores estan aquí para brindarte la información que necesitas",
     "La generación de oportunidades de emprendimiento, fortalecimiento y aceleración empresarial de la región, son nuestro compromiso",
     "Siguenos en nuestras redes sociales 👍 Facebook, Instagram y Twitter como # Camara de Comercio de Pamplona",
